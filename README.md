@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola,%20soy%20Cristhian%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Analista%20Desarrollador%20%7C%20Backend%20.NET%20%26%20APIs&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cristhian%20%7C%20Tellcris&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Analista%20Desarrollador%20%7C%20Backend%20.NET%20%26%20APIs&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Construyo+APIs+robustas+y+escalables+%E2%9A%A1;C%23+%7C+.NET+%7C+REST+%7C+SQL;Integraci%C3%B3n+de+sistemas+empresariales+%F0%9F%94%97;5%2B+a%C3%B1os+convirtiendo+requerimientos+en+software" alt="Typing SVG" />
@@ -86,12 +86,11 @@ public class Cristhian : Developer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TELLCRIS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TELLCRIS&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TELLCRIS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <img src="https://streak-stats.demolab.com?user=TELLCRIS&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TELLCRIS&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
